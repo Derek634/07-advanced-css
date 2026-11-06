@@ -46,3 +46,10 @@ main p {
 ul {
     font-size: 1rem 50px;
 }
+
+fieldset {
+    color: #d6b000;
+}
+label {
+    color: #0b880b;
+}
